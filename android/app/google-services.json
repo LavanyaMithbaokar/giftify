@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37376458722",
+    "project_id": "giftifybase",
+    "storage_bucket": "giftifybase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37376458722:android:a2466e31e99a09f4aa43bb",
+        "android_client_info": {
+          "package_name": "com.example.giftify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxKlC7Ksbv7gR4CW8UGkSnYFXRW1bUugY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
